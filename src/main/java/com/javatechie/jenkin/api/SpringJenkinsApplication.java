@@ -12,7 +12,7 @@ public class SpringJenkinsApplication {
 
 	@GetMapping("/hello")
 	public String message() {
-		return "Hello ";
+		return "Hello ....";
 	}
 
 	public static void main(String[] args) {
